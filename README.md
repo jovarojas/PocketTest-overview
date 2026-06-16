@@ -13,7 +13,7 @@
 ## 📺 Demostración de funcionamiento
 
 <div align="center">
-  <video src="videos/pocketTest_demo.mp4" width="650" autoplay loop muted playsinline></video>
+  <video src="pocketTest_demo.mp4" width="650" autoplay loop muted playsinline></video>
 </div>
 
 ---
