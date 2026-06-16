@@ -12,9 +12,9 @@
 
 ## 📺 Demostración de funcionamiento
 
-<div align="center">
-  <video src="./pocketTest_demo.mp4" width="650" autoplay loop muted playsinline></video>
-</div>
+
+https://github.com/user-attachments/assets/d18edb09-84c8-4e32-bd78-3326badd3d91
+
 
 ---
 
