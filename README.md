@@ -13,10 +13,7 @@
 ## 📺 Demostración de funcionamiento
 
 <div align="center">
-  <video width="650" autoplay loop muted playsinline>
-    <source src="videos/pocketTest_demo.mp4" type="video/mp4">
-    Tu navegador no soporta la reproducción de video.
-  </video>
+  <video src="videos/pocketTest_demo.mp4" width="650" autoplay loop muted playsinline></video>
 </div>
 
 ---
